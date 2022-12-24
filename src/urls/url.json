@@ -1,0 +1,4 @@
+{
+  "vite": "http://localhost:5173/",
+  "next": "http://localhost:3000/"
+}
